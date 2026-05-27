@@ -52,8 +52,8 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DileepGampala2005&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=374151" alt="Dileep's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=DileepGampala2005&theme=transparent&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="Dileep's GitHub streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DileepGampala2005&theme=github" alt="Dileep's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DileepGampala2005&theme=github&utcOffset=5.5" alt="Dileep's commit activity" />
 
 </div>
 
