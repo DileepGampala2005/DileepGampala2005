@@ -52,8 +52,10 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DileepGampala2005&theme=github_dark" alt="Dileep's GitHub stats" />
-<img height="170" src="./assets/ist-activity.svg" alt="Commit activity shown in Indian Standard Time" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DileepGampala2005&theme=github" alt="Dileep's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DileepGampala2005&theme=github&utcOffset=5.5" alt="Dileep's commit activity in Indian Standard Time" />
+
+<sub>Commit activity shown in Indian Standard Time (IST, UTC+5:30).</sub>
 
 </div>
 
