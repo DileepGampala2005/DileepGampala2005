@@ -53,7 +53,9 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DileepGampala2005&theme=github" alt="Dileep's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DileepGampala2005&theme=github&utcOffset=5.5" alt="Dileep's commit activity" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DileepGampala2005&theme=github&utcOffset=5.5" alt="Dileep's commit activity in Indian Standard Time" />
+
+<sub>Commit activity shown in Indian Standard Time (IST, UTC+5:30).</sub>
 
 </div>
 
@@ -62,7 +64,9 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DileepGampala2005-111827?style=for-the-badge&logo=github)](https://github.com/DileepGampala2005)
-[![Email](https://img.shields.io/badge/Email-dileepgampala2005%40gmail.com-2F80ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileepgampala2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-2F80ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileepgampala2005@gmail.com)
+
+<sub><a href="mailto:dileepgampala2005@gmail.com">dileepgampala2005@gmail.com</a></sub>
 
 </div>
 
