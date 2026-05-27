@@ -4,7 +4,7 @@
 
 ### Software Developer building practical apps, AI/ML projects, and clean user-focused tools.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Software+Developer;AI%2FML+Project+Builder;Full-Stack+Learner;Turning+ideas+into+usable+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Software+Developer;Turning+ideas+into+usable+products)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=DileepGampala2005&style=flat-square&color=2f80ed)](https://github.com/DileepGampala2005)
 [![GitHub followers](https://img.shields.io/github/followers/DileepGampala2005?style=flat-square&logo=github&label=Followers)](https://github.com/DileepGampala2005?tab=followers)
