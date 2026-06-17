@@ -59,27 +59,22 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 
 </div>
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-Building impactful software, contributing to open source, and continuously learning.
+Passionate about building scalable software, exploring emerging technologies, and contributing to meaningful projects. I am always open to professional opportunities, technical discussions, and collaborative initiatives.
 
 <br/><br/>
 
-<a href="mailto:dileepgampala2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/DileepGampala2005">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
-</a>
+📧 <a href="mailto:dileepgampala2005@gmail.com">[dileepgampala2005@gmail.com](mailto:dileepgampala2005@gmail.com)</a>
 
 </div>
+
 ---
 
 <div align="center">
 
-Thanks for visiting. Explore my repositories to see what I am building and improving.
+Thank you for visiting my profile. Feel free to explore my repositories to discover the projects, technologies, and solutions I am currently developing and refining.
 
 </div>
