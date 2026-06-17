@@ -59,13 +59,11 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 Passionate about building scalable software, exploring emerging technologies, and contributing to meaningful projects. I am always open to professional opportunities, technical discussions, and collaborative initiatives.
-
-<br/><br/>
 
 📧 <a href="mailto:dileepgampala2005@gmail.com">[dileepgampala2005@gmail.com](mailto:dileepgampala2005@gmail.com)</a>
 
