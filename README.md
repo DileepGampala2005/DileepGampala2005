@@ -59,20 +59,23 @@ I enjoy building projects that turn ideas into working software: from AI-assiste
 
 </div>
 
-## Connect
+## Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/DileepGampala2005">
-  <img src="https://img.shields.io/badge/GitHub-DileepGampala2005-111827?style=flat-square&logo=github" alt="GitHub profile" />
+Building impactful software, contributing to open source, and continuously learning.
+
+<br/><br/>
+
+<a href="mailto:dileepgampala2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br />
-
-<sub><a href="mailto:dileepgampala2005@gmail.com">dileepgampala2005@gmail.com</a></sub>
+<a href="https://github.com/DileepGampala2005">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
-
 ---
 
 <div align="center">
